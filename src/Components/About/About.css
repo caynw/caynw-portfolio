@@ -1,0 +1,54 @@
+   #aboutheader {
+    margin-bottom: 25px;
+ }
+  
+  .aboutme-container {
+       border: 2px;
+       border-radius: 5px;
+       width: 600px;
+       height: 200px;
+       border-spacing: 10px;
+       padding: 5px;
+       margin-right: auto;
+       margin-left: auto; 
+       line-height: 35px;
+   }
+
+   .aboutme-container p {
+    margin-top: 15px;
+   }
+
+  #about {
+    color: whitesmoke;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    margin-bottom: 150px;
+   }
+
+ #skillsheader {
+    margin-top: 50px;
+    margin-bottom: 25px;
+ }
+   
+   .skills-container {
+       border: 2px;
+       border-radius: 5px;
+       width: 600px;
+       height: 200px;
+       border-spacing: 10px;
+       padding: 5px;
+       margin-right: auto;
+       margin-left: auto; 
+   }
+   
+   .skills-container ul {
+    list-style: none;
+    color: whitesmoke;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 25px;
+    display: table; 
+    margin: 0 auto;
+    text-align: left;
+    line-height: 50px;
+   }
+  

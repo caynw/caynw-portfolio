@@ -1,0 +1,25 @@
+.navbar {
+    color: whitesmoke;
+    margin-left: 5px;
+    margin-top: 10px;
+}
+
+.nav-link {
+    color: whitesmoke;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+  
+a {
+    text-decoration: none;
+    font-size: 25px;
+}
+
+.navbar li {
+    margin-left : 5px;
+    margin-right : 5px;
+}
+
+.nav-link:hover {
+    color: whitesmoke;
+    opacity: 50%;
+}
